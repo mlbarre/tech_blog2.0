@@ -11,8 +11,10 @@ this projects includes a range of npm packages:
 to install, use `npm install` and the package after ~
 * dotenv,
 * mysql2,
-* express (session, connect-session),
+* express (session, connect-session-sequelize),
 * sequelize
+* handlebars
+* bcrypt (to hash passwords of users)
 
 ## collaborators
 me, myself, and i
